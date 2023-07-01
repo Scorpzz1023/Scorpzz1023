@@ -21,7 +21,7 @@ While I am still in the learning phase, I am excited to start working on practic
 
 ## Contact
 
-Feel free to reach out to me through [LinkedIn]([LinkedIn Profile](https://www.linkedin.com/in/william-c-b0515a38)). I am open to connecting with fellow learners, professionals, and anyone interested in networking and cybersecurity.
+Feel free to reach out to me through ([LinkedIn Profile](https://www.linkedin.com/in/william-c-b0515a38)). I am open to connecting with fellow learners, professionals, and anyone interested in networking and cybersecurity.
 
 
 
