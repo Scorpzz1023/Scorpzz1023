@@ -6,7 +6,7 @@ Write a short introduction about yourself.
 
 ## LinkedIn
 
-[LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+[LinkedIn Profile](https://www.linkedin.com/in/william-c-b0515a38)
 
 ## Projects
 
