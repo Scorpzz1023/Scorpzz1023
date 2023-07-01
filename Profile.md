@@ -29,7 +29,7 @@ Feel free to reach out to me through ([LinkedIn Profile](https://www.linkedin.co
 
 ### Project 1
 
-- Description: Briefly describe your project.
+- Description: 
 - GitHub Repository: [Project 1](https://github.com/your-username/project1)
 
 
