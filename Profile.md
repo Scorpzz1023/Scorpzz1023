@@ -7,7 +7,7 @@ I am a dedicated and enthusiastic student studying for my Network+ and Security+
 ## Education
 
 - Pursuing Network+ and Security+ certifications
-- Current student in [Name of your educational institution]
+- Current student in [https://www.wgu.edu]
 
 ## Interests
 
